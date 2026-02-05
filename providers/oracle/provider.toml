@@ -1,0 +1,5 @@
+name = "Oracle"
+npm = "@ai-sdk/openai-compatible"
+doc = "https://docs.oracle.com/en-us/iaas/Content/code-assist/home.htm"
+api = "https://code-internal.aiservice.us-chicago-1.oci.oraclecloud.com/20250206/app/litellm"
+env = ["ORACLE_CODE_ASSIST_API_KEY"]
